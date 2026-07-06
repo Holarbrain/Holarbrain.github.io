@@ -2,7 +2,7 @@
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
-## About This Portfolio Template
+## About This Portfolio 
 
 This portfolio is designed to demonstrate skills in:
 - Data visualization and storytelling
@@ -12,24 +12,22 @@ This portfolio is designed to demonstrate skills in:
 
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+This portfolio is set up to showcase my project work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Custumer Shopping Data Analysis Project
+*This project documents the full lifecycle of an end-to-end e-commerce analytics project, spanning data exploration in Python, business querying in SQL, and dashboard delivery in Power BI.*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Online Sales Data Cleaning & Analysis Project
+*This project focuses on cleaning, transforming, analyzing, and visualizing an online sales dataset using SQL and Excel. The dataset contained various data quality issues such as missing values, invalid records, inconsistent spellings, incorrect formats, and duplicate-related concerns.*
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### E-Commerce Product Intelligence Analystic Project 
+*This project documents the full lifecycle of an end-to-end e-commerce analytics project, spanning data exploration in Python, business querying in SQL, and dashboard delivery in Power BI*
 
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
-
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
 - **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Tools**: Microsoft Excel, VS Code, Power BI Service, MySQL & DuckDB
 
