@@ -1,6 +1,6 @@
 # Ismail Olamide Abdulrazaq - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome! This repository contains the complete professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
 ## About This Portfolio 
 
