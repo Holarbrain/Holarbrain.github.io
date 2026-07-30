@@ -29,5 +29,5 @@ This portfolio is set up to showcase my project work. You can easily customize t
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
 - **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: Microsoft Excel, VS Code, Power BI Service, MySQL & DuckDB
+- **Tools**: Microsoft Excel, VS Code, Power BI Service, Google Colab, MySQL & DuckDB
 
